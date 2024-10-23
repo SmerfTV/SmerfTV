@@ -2,12 +2,12 @@
 
 ### Computer Science Student
 
-I am a passionate computer science student always eager to expand my skills and take on new challenges in technology.
+I am Co-Founder of FiveCity and second-year computer science student at the Faculty of Mathematics, Informatics, and Mechanics at the University of Warsaw.
 
-### Looking for opportunities in Warsaw / Remote
+### Looking for an intership!
 
-- 👨‍💻 I’m focused on enhancing my programming skills and learning cutting-edge technologies.
-- 📂 Check out my projects at: [https://github.com/SmerfTV?tab=repositories]
+- 👨‍💻 I’m focused on enhancing my programming skills and learning new technologies.
+- 📂 All of my projects are available at: [https://github.com/SmerfTV?tab=repositories]
 - 📫 You can reach me at: stradczukm@gmail.com
 
 ---
