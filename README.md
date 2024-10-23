@@ -7,7 +7,7 @@ I am Co-Founder of FiveCity and second-year computer science student at the Facu
 ### Looking for an intership!
 
 - 👨‍💻 I’m focused on enhancing my programming skills and learning new technologies.
-- 📂 All of my projects are available at: [https://github.com/SmerfTV?tab=repositories]
+- 📂 All of my projects are available at: [https://github.com/SmerfTV]
 - 📫 You can reach me at: stradczukm@gmail.com
 
 ---
