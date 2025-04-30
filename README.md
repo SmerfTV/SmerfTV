@@ -4,11 +4,8 @@
 
 I am Co-Founder of FiveCity and second-year computer science student at the Faculty of Mathematics, Informatics, and Mechanics at the University of Warsaw.
 
-### Looking for an intership!
+###Incoming Revolut Intern
 
-- 👨‍💻 I’m focused on enhancing my programming skills and learning new technologies.
-- 📂 All of my projects are available at: [https://github.com/SmerfTV]
-- 📫 You can reach me at: stradczukm@gmail.com
 
 ---
 
