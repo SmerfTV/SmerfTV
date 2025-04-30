@@ -4,7 +4,7 @@
 
 I am Co-Founder of FiveCity and second-year computer science student at the Faculty of Mathematics, Informatics, and Mechanics at the University of Warsaw.
 
-###Incoming Revolut Intern
+### Incoming Revolut Intern
 
 
 ---
