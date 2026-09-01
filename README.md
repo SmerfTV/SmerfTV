@@ -1,6 +1,10 @@
 # Michał Stradczuk
 
-Building something new @humalike | ex @ Revolut Core Platform | CS Graduate @ MIMUW | Co-Founder of FiveCity | BSc Thesis @ Cosmose AI
+### Building something new @humalike
+### ex @ Revolut Core Platform
+### CS Graduate @ MIMUW
+### Co-Founder of FiveCity
+### BSc Thesis @ Cosmose AI
 
 
 ---
