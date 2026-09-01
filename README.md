@@ -1,10 +1,6 @@
 # Michał Stradczuk
 
-### Computer Science Student
-
-I am Co-Founder of FiveCity and second-year computer science student at the Faculty of Mathematics, Informatics, and Mechanics at the University of Warsaw.
-
-### Incoming Revolut Intern
+Building something new @humalike | ex @ Revolut Core Platform | CS Graduate @ MIMUW | Co-Founder of FiveCity | BSc Thesis @ Cosmose AI
 
 
 ---
